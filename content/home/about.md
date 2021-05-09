@@ -8,6 +8,6 @@ weight: 20
 title: Biography
 design:
   background:
-    image: /assets/media/img_1505.jpeg
+    image: ""
 ---
 Hello world
